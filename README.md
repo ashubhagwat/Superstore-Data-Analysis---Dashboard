@@ -1,7 +1,6 @@
 # Superstore-Dashboard
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/0d503b6d-d0b5-4aec-b0e0-0b4a37c49d73/ReportSection29035a029fd8bd82436d?experience=power-bi&redirectedFromSignup=1%3Fru%3Dhttps:%2F%2Fapp.powerbi.com%2Fgroups%2Fme%2Freports%2F0d503b6d-d0b5-4aec-b0e0-0b4a37c49d73%2FReportSection%3Fexperience%3Dpower-bi%26redirectedFromSignup%3D1,1
-
+### Dashboard Link :https://app.powerbi.com/groups/me/reports/0d503b6d-d0b5-4aec-b0e0-0b4a37c49d73/ReportSection?experience=power-bi
 ## Problem Statement
 
 With growing demands and cut-throat competitions in the market, a Superstore Giant is seeking our knowledge in understanding what works best for them. They would like to understand what insights can you get from this dataset, about sales and profit.
